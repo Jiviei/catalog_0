@@ -4,6 +4,8 @@ title: "1"
 
 [icon:business_website_online_presence_digital_platform_web_design_internet_marketing_icon_262978:green] asda
 
+фыв
+
 ### Как работали в YouTrack по задачам разработки
 
 [icon:file-plus:red]
@@ -56,7 +58,6 @@ To do	High	May 22, 2024	May 25, 2024
 
 [icon:trophy-svgrepo-com][icon:airplay][icon:123][icon:user-svgrepo-com][icon:thumbs-up-svgrepo-com][icon:align-justify]
 
-| 1 ||-|| 2 |
-| - | - | - |
-| 3 | 4 | 5 |
-| 6 | 7 | 8 |
+| 1 ||-|| 2 | | - | - | - | | 3 | 4 | 5 | | 6 | 7 | 8 | лоч**ная** [comment:rRRvi]**формула adasda**[/comment] **asdasd**
+
+[icon:pam_calendar]
