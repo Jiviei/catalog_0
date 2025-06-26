@@ -3,6 +3,8 @@ targetBranch: master
 createdAt: '2025-04-09 07:42:08'
 approvers:
 - user: Jiviei <vasilij66666grigorev@gmail.com>
+  approvedAt: '2025-06-26 15:22:09'
 options:
   deleteAfterMerge: true
+  squash: false
 description: ''
