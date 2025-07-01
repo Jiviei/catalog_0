@@ -26,7 +26,7 @@ adasd [icon:apple:yellow]123Qweqwe
 
 1. **Сложно описывать концепции.**
 
-![](./new_article_0-2.png)
+![image.png](/_index/new_article_0.png")
 
 ### Создали удобное пространство для творчества
 
@@ -61,3 +61,8 @@ To do	High	May 22, 2024	May 25, 2024
 | 1 ||-|| 2 | | - | - | - | | 3 | 4 | 5 | | 6 | 7 | 8 | лоч**ная** [comment:rRRvi]**формула adasda**[/comment] **asdasd**
 
 [icon:pam_calendar]
+
+|   |   |   |
+|---|---|---|
+|   |   |   |
+|   |   |   |
