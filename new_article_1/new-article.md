@@ -1,5 +1,5 @@
 ---
-order: 1
+order: 2
 ---
 
 adasd
@@ -14,40 +14,58 @@ sd
 
 a
 
-{% table %}
+<table header="row">
+<tr>
+<td>
 
----
+sad
 
-*  {% isHeader=true %}
+</td>
+<td>
 
-   sad
+sd
 
-*  {% isHeader=true %}
+a
 
-   sd
+</td>
+<td>
 
-   a
+asdad
 
-*  {% isHeader=true %}
+</td>
+</tr>
+<tr>
+<td>
 
-   asdad
+asdasd
 
----
+</td>
+<td>
 
-*  asdasd
+adsa
 
-*  adsa
+</td>
+<td>
 
-*  asd
+asd
 
----
+</td>
+</tr>
+<tr>
+<td>
 
-*  asdasd
+asdasd
 
-*  sda
+</td>
+<td>
 
-*  sdasd
+sda
 
-{% /table %}
+</td>
+<td>
 
+sdasd
 
+</td>
+</tr>
+</table>

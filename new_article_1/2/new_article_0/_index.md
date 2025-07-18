@@ -1,6 +1,6 @@
 ---
-order: 0
 title: "3"
+order: 1
 ---
 
 [./../asd](./../asd)
@@ -9,7 +9,7 @@ title: "3"
 
 ![](./aasdsd1.png)
 
-[drawio:./q132123we.svg:qwe]
+<drawio path="./q132123we.svg" title="qwe"/>
 
 aqea
 
