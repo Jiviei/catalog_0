@@ -27,7 +27,7 @@ adasd <icon code="apple" color="yellow"/>123Qweqwe
 
 1. **Сложно описывать концепции.**
 
-![image.png](/_index/new_article_0.png")
+![](./_index.png){width=908px height=514px}
 
 ### Создали удобное пространство для творчества
 
@@ -59,7 +59,7 @@ To do	High	May 22, 2024	May 25, 2024
 
 <icon code="trophy-svgrepo-com"/><icon code="airplay"/><icon code="123"/><icon code="user-svgrepo-com"/><icon code="thumbs-up-svgrepo-com"/><icon code="align-justify"/>
 
-| 1 ||-|| 2 | | - | - | - | | 3 | 4 | 5 | | 6 | 7 | 8 | лоч**ная** <comment count="rRRvi">**формула adasda**</comment> **asdasd**
+| 1 ||-|| 2 | | - | - | - | | 3 | 4 | 5 | | 6 | 7 | 8 | лоч**ная** **формула adasda** **asdasd**
 
 <icon code="pam_calendar"/>
 
