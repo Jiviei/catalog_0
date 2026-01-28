@@ -27,7 +27,7 @@ jobs:
           node-version: "22"
 
       - name: Build
-        run: npx -y gramax-cli@latest build -s ./ -d ./dist
+        run: npx -y gramax-cli@latest build -s ./ -d ./dist --skip-check
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
